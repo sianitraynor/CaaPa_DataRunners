@@ -1,0 +1,139 @@
+E:\uni\330 Mobile Application Development\caapa_db - Copy (2)\caapaorig\obj\Debug\caapaorig.csprojResolveAssemblyReference.cache
+E:\uni\330 Mobile Application Development\caapa_db\caapaorig\bin\Debug\caapa.dll.config
+E:\uni\330 Mobile Application Development\caapa_db\caapaorig\bin\Debug\caapa.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaorig\bin\Debug\caapa.pdb
+E:\uni\330 Mobile Application Development\caapa_db\caapaorig\bin\Debug\caapa.caapa.apk
+E:\uni\330 Mobile Application Development\caapa_db\caapaorig\bin\Debug\caapa.caapa-Signed.apk
+E:\uni\330 Mobile Application Development\caapa_db\caapaorig\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaorig\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaorig\bin\Debug\Microsoft.WindowsAzure.Mobile.SQLiteStore.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaorig\bin\Debug\Newtonsoft.Json.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaorig\bin\Debug\SQLitePCL.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaorig\bin\Debug\SQLitePCL.Ext.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaorig\bin\Debug\System.Net.Http.Extensions.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaorig\bin\Debug\System.Net.Http.Primitives.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaorig\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+E:\uni\330 Mobile Application Development\caapa_db\caapaorig\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+E:\uni\330 Mobile Application Development\caapa_db\caapaorig\bin\Debug\Newtonsoft.Json.xml
+E:\uni\330 Mobile Application Development\caapa_db\caapaorig\bin\Debug\System.Net.Http.Extensions.xml
+E:\uni\330 Mobile Application Development\caapa_db\caapaorig\bin\Debug\System.Net.Http.Primitives.xml
+E:\uni\330 Mobile Application Development\caapa_db\caapaorig\obj\Debug\caapaorig.csprojResolveAssemblyReference.cache
+E:\uni\330 Mobile Application Development\caapa_db\caapaorig\obj\Debug\caapa.dll
+E:\uni\330 Mobile Application Development\caapa_db\caapaorig\obj\Debug\caapa.pdb
+E:\uni\330 Mobile Application Development\caapa_db\caapaorig\obj\Debug\android\bin\caapa.caapa.apk
+E:\uni\330 Mobile Application Development\caapa_db\caapaorig\obj\Debug\res\values\strings.xml
+E:\uni\330 Mobile Application Development\caapa_db\caapaorig\obj\Debug\res\layout\activity_to_do.xml
+E:\uni\330 Mobile Application Development\caapa_db\caapaorig\obj\Debug\res\layout\row_list_to_do.xml
+E:\uni\330 Mobile Application Development\caapa_db\caapaorig\obj\Debug\res\values\styles.xml
+E:\uni\330 Mobile Application Development\caapa_db\caapaorig\obj\Debug\res\drawable-ldpi\ic_launcher.png
+E:\uni\330 Mobile Application Development\caapa_db\caapaorig\obj\Debug\res\drawable-mdpi\ic_launcher.png
+E:\uni\330 Mobile Application Development\caapa_db\caapaorig\obj\Debug\res\drawable-xhdpi\ic_launcher.png
+E:\uni\330 Mobile Application Development\caapa_db\caapaorig\obj\Debug\res\drawable-hdpi\ic_launcher.png
+E:\uni\330 Mobile Application Development\caapa_db\caapaorig\obj\Debug\res\menu\activity_main.xml
+E:\uni\330 Mobile Application Development\caapa_db\caapaorig\obj\Debug\res\values-v11\styles.xml
+E:\uni\330 Mobile Application Development\caapa_db\caapaorig\obj\Debug\res\values-v14\styles.xml
+E:\uni\330 Mobile Application Development\caapa_db\caapaorig\obj\Debug\R.cs.flag
+E:\uni\330 Mobile Application Development\caapa_db\caapaorig\obj\Debug\uploadflags.txt
+E:\uni\330 Mobile Application Development\caapa_db - Copy (3)\caapaorig\bin\Debug\caapa.dll.config
+E:\uni\330 Mobile Application Development\caapa_db - Copy (3)\caapaorig\bin\Debug\caapa.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (3)\caapaorig\bin\Debug\caapa.pdb
+E:\uni\330 Mobile Application Development\caapa_db - Copy (3)\caapaorig\bin\Debug\caapa.caapa.apk
+E:\uni\330 Mobile Application Development\caapa_db - Copy (3)\caapaorig\bin\Debug\caapa.caapa-Signed.apk
+E:\uni\330 Mobile Application Development\caapa_db - Copy (3)\caapaorig\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (3)\caapaorig\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (3)\caapaorig\bin\Debug\Microsoft.WindowsAzure.Mobile.SQLiteStore.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (3)\caapaorig\bin\Debug\Newtonsoft.Json.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (3)\caapaorig\bin\Debug\SQLitePCL.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (3)\caapaorig\bin\Debug\SQLitePCL.Ext.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (3)\caapaorig\bin\Debug\System.Net.Http.Extensions.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (3)\caapaorig\bin\Debug\System.Net.Http.Primitives.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (3)\caapaorig\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+E:\uni\330 Mobile Application Development\caapa_db - Copy (3)\caapaorig\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+E:\uni\330 Mobile Application Development\caapa_db - Copy (3)\caapaorig\bin\Debug\Newtonsoft.Json.xml
+E:\uni\330 Mobile Application Development\caapa_db - Copy (3)\caapaorig\bin\Debug\System.Net.Http.Extensions.xml
+E:\uni\330 Mobile Application Development\caapa_db - Copy (3)\caapaorig\bin\Debug\System.Net.Http.Primitives.xml
+E:\uni\330 Mobile Application Development\caapa_db - Copy (3)\caapaorig\obj\Debug\caapaorig.csprojResolveAssemblyReference.cache
+E:\uni\330 Mobile Application Development\caapa_db - Copy (3)\caapaorig\obj\Debug\caapa.dll
+E:\uni\330 Mobile Application Development\caapa_db - Copy (3)\caapaorig\obj\Debug\caapa.pdb
+E:\uni\330 Mobile Application Development\caapa_db - Copy (3)\caapaorig\obj\Debug\android\bin\caapa.caapa.apk
+E:\uni\330 Mobile Application Development\caapa_db - Copy (3)\caapaorig\obj\Debug\res\values\strings.xml
+E:\uni\330 Mobile Application Development\caapa_db - Copy (3)\caapaorig\obj\Debug\res\layout\activity_to_do.xml
+E:\uni\330 Mobile Application Development\caapa_db - Copy (3)\caapaorig\obj\Debug\res\layout\row_list_to_do.xml
+E:\uni\330 Mobile Application Development\caapa_db - Copy (3)\caapaorig\obj\Debug\res\values\styles.xml
+E:\uni\330 Mobile Application Development\caapa_db - Copy (3)\caapaorig\obj\Debug\res\drawable-ldpi\ic_launcher.png
+E:\uni\330 Mobile Application Development\caapa_db - Copy (3)\caapaorig\obj\Debug\res\drawable-mdpi\ic_launcher.png
+E:\uni\330 Mobile Application Development\caapa_db - Copy (3)\caapaorig\obj\Debug\res\drawable-xhdpi\ic_launcher.png
+E:\uni\330 Mobile Application Development\caapa_db - Copy (3)\caapaorig\obj\Debug\res\drawable-hdpi\ic_launcher.png
+E:\uni\330 Mobile Application Development\caapa_db - Copy (3)\caapaorig\obj\Debug\res\menu\activity_main.xml
+E:\uni\330 Mobile Application Development\caapa_db - Copy (3)\caapaorig\obj\Debug\res\values-v11\styles.xml
+E:\uni\330 Mobile Application Development\caapa_db - Copy (3)\caapaorig\obj\Debug\res\values-v14\styles.xml
+E:\uni\330 Mobile Application Development\caapa_db - Copy (3)\caapaorig\obj\Debug\R.cs.flag
+E:\uni\330 Mobile Application Development\caapa_db - Copy (3)\caapaorig\obj\Debug\uploadflags.txt
+E:\uni\330 Mobile Application Development\CAAPADBNONGITWORKINGCOPY\caapaorig\bin\Debug\caapa.dll.config
+E:\uni\330 Mobile Application Development\CAAPADBNONGITWORKINGCOPY\caapaorig\bin\Debug\caapa.dll
+E:\uni\330 Mobile Application Development\CAAPADBNONGITWORKINGCOPY\caapaorig\bin\Debug\caapa.pdb
+E:\uni\330 Mobile Application Development\CAAPADBNONGITWORKINGCOPY\caapaorig\bin\Debug\caapa.caapa.apk
+E:\uni\330 Mobile Application Development\CAAPADBNONGITWORKINGCOPY\caapaorig\bin\Debug\caapa.caapa-Signed.apk
+E:\uni\330 Mobile Application Development\CAAPADBNONGITWORKINGCOPY\caapaorig\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+E:\uni\330 Mobile Application Development\CAAPADBNONGITWORKINGCOPY\caapaorig\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+E:\uni\330 Mobile Application Development\CAAPADBNONGITWORKINGCOPY\caapaorig\bin\Debug\Microsoft.WindowsAzure.Mobile.SQLiteStore.dll
+E:\uni\330 Mobile Application Development\CAAPADBNONGITWORKINGCOPY\caapaorig\bin\Debug\Newtonsoft.Json.dll
+E:\uni\330 Mobile Application Development\CAAPADBNONGITWORKINGCOPY\caapaorig\bin\Debug\SQLitePCL.dll
+E:\uni\330 Mobile Application Development\CAAPADBNONGITWORKINGCOPY\caapaorig\bin\Debug\SQLitePCL.Ext.dll
+E:\uni\330 Mobile Application Development\CAAPADBNONGITWORKINGCOPY\caapaorig\bin\Debug\System.Net.Http.Extensions.dll
+E:\uni\330 Mobile Application Development\CAAPADBNONGITWORKINGCOPY\caapaorig\bin\Debug\System.Net.Http.Primitives.dll
+E:\uni\330 Mobile Application Development\CAAPADBNONGITWORKINGCOPY\caapaorig\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+E:\uni\330 Mobile Application Development\CAAPADBNONGITWORKINGCOPY\caapaorig\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+E:\uni\330 Mobile Application Development\CAAPADBNONGITWORKINGCOPY\caapaorig\bin\Debug\Newtonsoft.Json.xml
+E:\uni\330 Mobile Application Development\CAAPADBNONGITWORKINGCOPY\caapaorig\bin\Debug\System.Net.Http.Extensions.xml
+E:\uni\330 Mobile Application Development\CAAPADBNONGITWORKINGCOPY\caapaorig\bin\Debug\System.Net.Http.Primitives.xml
+E:\uni\330 Mobile Application Development\CAAPADBNONGITWORKINGCOPY\caapaorig\obj\Debug\caapa.dll
+E:\uni\330 Mobile Application Development\CAAPADBNONGITWORKINGCOPY\caapaorig\obj\Debug\caapa.pdb
+E:\uni\330 Mobile Application Development\CAAPADBNONGITWORKINGCOPY\caapaorig\obj\Debug\android\bin\caapa.caapa.apk
+E:\uni\330 Mobile Application Development\CAAPADBNONGITWORKINGCOPY\caapaorig\obj\Debug\res\values\strings.xml
+E:\uni\330 Mobile Application Development\CAAPADBNONGITWORKINGCOPY\caapaorig\obj\Debug\res\layout\activity_to_do.xml
+E:\uni\330 Mobile Application Development\CAAPADBNONGITWORKINGCOPY\caapaorig\obj\Debug\res\layout\row_list_to_do.xml
+E:\uni\330 Mobile Application Development\CAAPADBNONGITWORKINGCOPY\caapaorig\obj\Debug\res\values\styles.xml
+E:\uni\330 Mobile Application Development\CAAPADBNONGITWORKINGCOPY\caapaorig\obj\Debug\res\drawable-ldpi\ic_launcher.png
+E:\uni\330 Mobile Application Development\CAAPADBNONGITWORKINGCOPY\caapaorig\obj\Debug\res\drawable-mdpi\ic_launcher.png
+E:\uni\330 Mobile Application Development\CAAPADBNONGITWORKINGCOPY\caapaorig\obj\Debug\res\drawable-xhdpi\ic_launcher.png
+E:\uni\330 Mobile Application Development\CAAPADBNONGITWORKINGCOPY\caapaorig\obj\Debug\res\drawable-hdpi\ic_launcher.png
+E:\uni\330 Mobile Application Development\CAAPADBNONGITWORKINGCOPY\caapaorig\obj\Debug\res\menu\activity_main.xml
+E:\uni\330 Mobile Application Development\CAAPADBNONGITWORKINGCOPY\caapaorig\obj\Debug\res\values-v11\styles.xml
+E:\uni\330 Mobile Application Development\CAAPADBNONGITWORKINGCOPY\caapaorig\obj\Debug\res\values-v14\styles.xml
+E:\uni\330 Mobile Application Development\CAAPADBNONGITWORKINGCOPY\caapaorig\obj\Debug\R.cs.flag
+E:\uni\330 Mobile Application Development\CAAPADBNONGITWORKINGCOPY\caapaorig\obj\Debug\uploadflags.txt
+E:\uni\330 Mobile Application Development\CaaPaService\caapaorig\bin\Debug\caapa.dll.config
+E:\uni\330 Mobile Application Development\CaaPaService\caapaorig\bin\Debug\caapa.dll
+E:\uni\330 Mobile Application Development\CaaPaService\caapaorig\bin\Debug\caapa.pdb
+E:\uni\330 Mobile Application Development\CaaPaService\caapaorig\bin\Debug\caapa.caapa.apk
+E:\uni\330 Mobile Application Development\CaaPaService\caapaorig\bin\Debug\caapa.caapa-Signed.apk
+E:\uni\330 Mobile Application Development\CaaPaService\caapaorig\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+E:\uni\330 Mobile Application Development\CaaPaService\caapaorig\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+E:\uni\330 Mobile Application Development\CaaPaService\caapaorig\bin\Debug\Microsoft.WindowsAzure.Mobile.SQLiteStore.dll
+E:\uni\330 Mobile Application Development\CaaPaService\caapaorig\bin\Debug\Newtonsoft.Json.dll
+E:\uni\330 Mobile Application Development\CaaPaService\caapaorig\bin\Debug\SQLitePCL.dll
+E:\uni\330 Mobile Application Development\CaaPaService\caapaorig\bin\Debug\SQLitePCL.Ext.dll
+E:\uni\330 Mobile Application Development\CaaPaService\caapaorig\bin\Debug\System.Net.Http.Extensions.dll
+E:\uni\330 Mobile Application Development\CaaPaService\caapaorig\bin\Debug\System.Net.Http.Primitives.dll
+E:\uni\330 Mobile Application Development\CaaPaService\caapaorig\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+E:\uni\330 Mobile Application Development\CaaPaService\caapaorig\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+E:\uni\330 Mobile Application Development\CaaPaService\caapaorig\bin\Debug\Newtonsoft.Json.xml
+E:\uni\330 Mobile Application Development\CaaPaService\caapaorig\bin\Debug\System.Net.Http.Extensions.xml
+E:\uni\330 Mobile Application Development\CaaPaService\caapaorig\bin\Debug\System.Net.Http.Primitives.xml
+E:\uni\330 Mobile Application Development\CaaPaService\caapaorig\obj\Debug\caapa.dll
+E:\uni\330 Mobile Application Development\CaaPaService\caapaorig\obj\Debug\caapa.pdb
+E:\uni\330 Mobile Application Development\CaaPaService\caapaorig\obj\Debug\android\bin\caapa.caapa.apk
+E:\uni\330 Mobile Application Development\CaaPaService\caapaorig\obj\Debug\res\values\strings.xml
+E:\uni\330 Mobile Application Development\CaaPaService\caapaorig\obj\Debug\res\layout\activity_to_do.xml
+E:\uni\330 Mobile Application Development\CaaPaService\caapaorig\obj\Debug\res\layout\row_list_to_do.xml
+E:\uni\330 Mobile Application Development\CaaPaService\caapaorig\obj\Debug\res\values\styles.xml
+E:\uni\330 Mobile Application Development\CaaPaService\caapaorig\obj\Debug\res\drawable-ldpi\ic_launcher.png
+E:\uni\330 Mobile Application Development\CaaPaService\caapaorig\obj\Debug\res\drawable-mdpi\ic_launcher.png
+E:\uni\330 Mobile Application Development\CaaPaService\caapaorig\obj\Debug\res\drawable-xhdpi\ic_launcher.png
+E:\uni\330 Mobile Application Development\CaaPaService\caapaorig\obj\Debug\res\drawable-hdpi\ic_launcher.png
+E:\uni\330 Mobile Application Development\CaaPaService\caapaorig\obj\Debug\res\menu\activity_main.xml
+E:\uni\330 Mobile Application Development\CaaPaService\caapaorig\obj\Debug\res\values-v11\styles.xml
+E:\uni\330 Mobile Application Development\CaaPaService\caapaorig\obj\Debug\res\values-v14\styles.xml
+E:\uni\330 Mobile Application Development\CaaPaService\caapaorig\obj\Debug\R.cs.flag
+E:\uni\330 Mobile Application Development\CaaPaService\caapaorig\obj\Debug\uploadflags.txt
